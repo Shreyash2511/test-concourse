@@ -11,4 +11,5 @@ image_resource:
 # echo "Hello world!"
 run:
   path: echo
-  args: ["Hello world!"]
+  args: ["Hello world 2!"]
+
