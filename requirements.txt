@@ -48,7 +48,6 @@ pyspark==4.0.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pytz==2025.2
-pywin32==311
 pyzmq==27.0.0
 requests==2.32.4
 selenium==4.34.2
@@ -69,4 +68,5 @@ wcwidth==0.2.13
 websocket-client==1.8.0
 websockets==15.0.1
 wsproto==1.2.0
+
 yfinance==0.2.65
